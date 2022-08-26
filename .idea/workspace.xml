@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="GradutionDesign:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e156fcc4-046e-459f-8286-2f07d3991d5d" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26VNoucWVhzu3igHR0gIMJgpxnE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="工件" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA2021\GraduationDesign-ceshi\src\app" />
+      <recent name="E:\IDEA2021\GraduationDesign-ceshi" />
+      <recent name="E:\IDEA2021\GraduationDesign\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA2021\GraduationDesign-ceshi\src" />
+      <recent name="E:\IDEA2021\GraduationDesign-ceshi" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GameApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.GameApp" />
+      <module name="GradutionDesign" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=gbk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.GameApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e156fcc4-046e-459f-8286-2f07d3991d5d" name="默认变更列表" comment="" />
+      <created>1647504974807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647504974807</updated>
+      <workItem from="1647504976949" duration="11005000" />
+      <workItem from="1647563574350" duration="1862000" />
+      <workItem from="1647566470401" duration="651000" />
+      <workItem from="1648108012542" duration="15348000" />
+      <workItem from="1648125563970" duration="2330000" />
+      <workItem from="1648133386986" duration="708000" />
+      <workItem from="1648169727845" duration="1109000" />
+      <workItem from="1648172503662" duration="802000" />
+      <workItem from="1648698333632" duration="93000" />
+      <workItem from="1648713127933" duration="2866000" />
+      <workItem from="1648716452727" duration="2169000" />
+      <workItem from="1648719076788" duration="11844000" />
+      <workItem from="1648738325577" duration="2503000" />
+      <workItem from="1648774173713" duration="1134000" />
+      <workItem from="1648775326641" duration="241000" />
+      <workItem from="1648775659378" duration="3215000" />
+      <workItem from="1648785835324" duration="1860000" />
+      <workItem from="1649225411807" duration="81000" />
+      <workItem from="1649312659039" duration="1274000" />
+      <workItem from="1649314379418" duration="2751000" />
+      <workItem from="1649320467235" duration="13641000" />
+      <workItem from="1649388243111" duration="4456000" />
+      <workItem from="1649399750908" duration="614000" />
+      <workItem from="1650699925506" duration="4812000" />
+      <workItem from="1650728799165" duration="50000" />
+      <workItem from="1652669463285" duration="168000" />
+      <workItem from="1652672997618" duration="6544000" />
+      <workItem from="1652791415182" duration="3720000" />
+      <workItem from="1652796287832" duration="6021000" />
+      <workItem from="1652834643395" duration="9398000" />
+      <workItem from="1653288424301" duration="1170000" />
+      <workItem from="1653959058083" duration="75000" />
+      <workItem from="1653959820510" duration="2235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
